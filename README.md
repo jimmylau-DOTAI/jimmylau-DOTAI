@@ -14,22 +14,17 @@
 >
 > 我想將真正有效嘅做事方法，變成可以安裝、測試、交接同改造嘅 Skills。
 
-## 我正在建立
+## 公開目錄
 
-### [10x AI Growth Marketing Kit](https://github.com/jimmylau-DOTAI/10x-ai-growth-marketing-kit)
+我會將所有已公開、可以直接試用嘅 Tools、Skills 同 Guides 放喺呢度。唔係所有想法都會放上嚟；只會放我自己願意用、願意繼續改善嘅作品。
 
-一套持續成長嘅 AI Marketing Skill Kit，俾所有想用 AI 推動內容、品牌、Campaign、團隊或者生意增長嘅人。
+| 類別 | 作品 | 你可以用嚟做乜 |
+| --- | --- | --- |
+| 🧩 Tool | [DotAI Collage Studio](https://github.com/jimmylau-DOTAI/dotai-collage-studio) | 將 1–9 張活動相拼成可以出 IG／Facebook 嘅 JPG；本機處理相片。 |
+| ⚙️ Skill Kit | [10x AI Growth Marketing Kit](https://github.com/jimmylau-DOTAI/10x-ai-growth-marketing-kit) | 將 Research、內容、Campaign 同增長工作，變成 AI 可以重複執行嘅 Skills。 |
+| 📚 Guide | [Growth with AI](https://github.com/jimmylau-DOTAI/growth-with-ai-guide) | 用廣東話由第一件真 AI 工作，行到可交接、可驗收嘅 AI workflow。 |
 
-目前先由四個 Skills 開始：
-
-| Skill | 解決嘅工作 |
-| --- | --- |
-| Social Content Research | 將社交內容變成有來源、可驗證嘅研究 |
-| Full Funnel Campaign Planner | 將 Marketing Idea 變成可以執行同交接嘅 Campaign |
-| SEO + GEO Content | 建立真正回答搜尋問題、Claim 有根據嘅內容 |
-| Social Post Writing | 將可靠觀點改寫成平台原生內容 |
-
-四個 Skills 只係起點。之後會按照真實 Marketing 工作持續測試、改善同加入更多 Skills。
+新工具、新 Skills 同新攻略完成公開 QA（PS：公開前檢查）後，都會加返入呢個目錄。
 
 ## 我專注嘅工作
 
